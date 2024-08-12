@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bhumit1204
-- 👀 I’m interested in java programing
+- 👋 Hi, I’m Bhumit
+- 👀 I’m interested in Python Programing
 - 🌱 I’m currently learning BCA
 - 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me - bhumitkp8361@gmail.com
