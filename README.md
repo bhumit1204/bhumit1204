@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bhumit
 - 👀 I’m interested in Python Programing
-- 🌱 I’m currently learning BCA
-- 💞️ I’m looking to collaborate on Java
+- 🌱 I’m going to pursue MCA
+- 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me - bhumitkp8361@gmail.com
 
 <!---
